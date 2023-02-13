@@ -1,0 +1,15 @@
+div.application {
+  padding: 1rem 0;
+  position: relative;
+}
+
+span.saveMessage {
+  color: grey;
+  font-size: 0.8rem;
+  position: absolute;
+  top: 0.25rem;
+}
+
+div.sectionLabel {
+  margin: 0.5rem 0;
+}
